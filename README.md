@@ -26,7 +26,7 @@ To get started, clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/Mefiseru/g-Downloader.git
-cd g-downloader
+cd g-Downloader
 pip install -r req.txt
 ```
 
